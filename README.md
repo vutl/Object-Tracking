@@ -43,9 +43,3 @@ This notebook provides a comprehensive solution for vehicle counting in video st
 * `Documents_2025-1_Object tracking using object detection_YOLO_Tracking_Tutorial.pdf`
 
 These PDF documents offer foundational knowledge and practical guidance on object tracking. Topics covered include an introduction to single and multiple object tracking, template matching, histogram matching, Mean Shift, SIFT features, and advanced concepts like Kalman Filters, SORT, and DeepSORT. The tutorials specifically delve into object tracking using YOLO, emphasizing its speed and accuracy in vehicle detection and its relevance in smart traffic systems.
-
----
-
-## CV Description (Super Tiny)
-
-Developed and implemented advanced object tracking systems, including vehicle counting, utilizing YOLOv8, ByteTrack, and DeepSORT for robust multi-object tracking in real-world scenarios. Explored fundamental object tracking techniques and applied deep learning for enhanced performance in diverse environments.
