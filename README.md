@@ -1,7 +1,5 @@
 # Object Tracking Projects and Resources
 
-This repository contains projects and resources related to object tracking, covering both fundamental techniques and advanced deep learning-based approaches.
-
 ## Table of Contents
 
 * [Overview](#overview)
